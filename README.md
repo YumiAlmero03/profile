@@ -1,3 +1,15 @@
+<p>
+	Insturctions:
+	<br/>
+	>set DB_DATABASE at .env file
+	<br/>
+	>type php artisan migrate:fresh --seed at cmd
+	<br/><br/>
+	if there is no environment:
+	<br/>
+	>type php artisan serve at cmd
+</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
